@@ -9,14 +9,7 @@ You’ll be using the **GitHub Wiki** to update all your project details in a st
 
 ## 🧠 What to Do First
 
-Start by writing a **brief introduction** to your project right here in this `README.md` file:
-
-🔹 What problem are you solving?  
-🔹 What’s your proposed solution?
-
-Just 2–3 lines are enough. This helps others quickly understand what your project is about.
-
-Click on the ✏️ PENCIL icon next to the README title above, and you can edit the README directly from within your browser.
+We are creating a snack dispenser. There is a wheel with sections, each of which contain a different small candy or snack. By pressing a button, the wheel spins and stops at a random orientation so a random candy falls out. There is a limit to how many candies fall out in a day which can be set through an app. This gamifies a snack dispenser while limiting overeating.
 
 ---
 
